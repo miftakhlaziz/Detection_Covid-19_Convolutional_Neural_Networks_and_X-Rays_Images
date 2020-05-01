@@ -15,10 +15,10 @@
  ![alt text](https://github.com/miftakhlaziz/Detection_Covid-19_Convolutional_Neural_Networks_and_X-Rays_Images/blob/master/Results/confusion%20matrix.png)
  
 #### result visualization from predictions data testing x-ray images
-##### this a positive covid-19
+##### positive covid-19
  ![alt text](https://github.com/miftakhlaziz/Detection_Covid-19_Convolutional_Neural_Networks_and_X-Rays_Images/blob/master/Results/predict_result.png)
  ![alt text](https://github.com/miftakhlaziz/Detection_Covid-19_Convolutional_Neural_Networks_and_X-Rays_Images/blob/master/Results/predict_result1.png)
-##### this a negative covid-19
+##### negative covid-19
  ![alt text](https://github.com/miftakhlaziz/Detection_Covid-19_Convolutional_Neural_Networks_and_X-Rays_Images/blob/master/Results/normal_result.png)
  
 #### Tools / Libraries
